@@ -1,0 +1,9 @@
+pandas~=2.2.2
+requests~=2.32.3
+beautifulsoup4~=4.12.3
+transformers~=4.44.1
+lxml
+tensorflow
+openpyxl
+tf-keras
+tqdm
